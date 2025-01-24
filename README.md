@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Mathetmatics, ML, Algorithims
 - 🌱 I’m currently learning ML, and Engineering 
 - 💞️ I’m looking to collaborate on x
-- 📫 How to reach me x
+- 📫 How to reach me tanner@tanner-mcgrath.me is my email!
 
 <!---
 tanner-malt/tanner-malt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
